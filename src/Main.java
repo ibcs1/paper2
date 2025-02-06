@@ -21,5 +21,8 @@ public class Main {
         // Test 4.5
         N17P2 n17 = new N17P2();
         n17.run();
+
+        F25P2 f25 = new F25P2();
+        f25.run();
     }
 }
